@@ -1,0 +1,6 @@
+C:\camp4cl\ClinicalManagementSystemProject\validation\bin\Debug\validation.dll
+C:\camp4cl\ClinicalManagementSystemProject\validation\bin\Debug\validation.pdb
+C:\camp4cl\ClinicalManagementSystemProject\validation\obj\Debug\validation.csproj.AssemblyReference.cache
+C:\camp4cl\ClinicalManagementSystemProject\validation\obj\Debug\validation.csproj.CoreCompileInputs.cache
+C:\camp4cl\ClinicalManagementSystemProject\validation\obj\Debug\validation.dll
+C:\camp4cl\ClinicalManagementSystemProject\validation\obj\Debug\validation.pdb

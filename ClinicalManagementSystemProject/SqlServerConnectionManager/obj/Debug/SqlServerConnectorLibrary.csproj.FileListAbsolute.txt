@@ -1,0 +1,6 @@
+C:\camp4cl\ClinicalManagementSystemProject\SqlServerConnectionManager\bin\Debug\SqlServerConnectionManager.dll
+C:\camp4cl\ClinicalManagementSystemProject\SqlServerConnectionManager\bin\Debug\SqlServerConnectionManager.pdb
+C:\camp4cl\ClinicalManagementSystemProject\SqlServerConnectionManager\obj\Debug\SqlServerConnectorLibrary.csproj.AssemblyReference.cache
+C:\camp4cl\ClinicalManagementSystemProject\SqlServerConnectionManager\obj\Debug\SqlServerConnectorLibrary.csproj.CoreCompileInputs.cache
+C:\camp4cl\ClinicalManagementSystemProject\SqlServerConnectionManager\obj\Debug\SqlServerConnectionManager.dll
+C:\camp4cl\ClinicalManagementSystemProject\SqlServerConnectionManager\obj\Debug\SqlServerConnectionManager.pdb
