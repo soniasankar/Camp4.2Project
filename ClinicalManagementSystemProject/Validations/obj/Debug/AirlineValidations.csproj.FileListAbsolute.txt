@@ -1,6 +1,0 @@
-C:\camp4cl\ClinicalManagementSystemProject\Validations\bin\Debug\Validations.dll
-C:\camp4cl\ClinicalManagementSystemProject\Validations\bin\Debug\Validations.pdb
-C:\camp4cl\ClinicalManagementSystemProject\Validations\obj\Debug\AirlineValidations.csproj.AssemblyReference.cache
-C:\camp4cl\ClinicalManagementSystemProject\Validations\obj\Debug\AirlineValidations.csproj.CoreCompileInputs.cache
-C:\camp4cl\ClinicalManagementSystemProject\Validations\obj\Debug\Validations.dll
-C:\camp4cl\ClinicalManagementSystemProject\Validations\obj\Debug\Validations.pdb
